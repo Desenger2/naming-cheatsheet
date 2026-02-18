@@ -7,7 +7,7 @@
 # Naming cheatsheet
 
 - [English language](#english-language) Change1_branch1
-- [Naming convention](#naming-convention)
+- [Naming convention](#naming-convention) Change2_branch1
 - [S-I-D](#s-i-d)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
