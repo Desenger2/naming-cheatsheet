@@ -11,7 +11,7 @@
 - [S-I-D](#s-i-d) Change3_branch1
 - [Avoid contractions](#avoid-contractions) Change4_branch1
 - [Avoid context duplication](#avoid-context-duplication) Change5_branch1
-- [Reflect the expected result](#reflect-the-expected-result)
+- [Reflect the expected result](#reflect-the-expected-result) Change6_branch1
 - [Naming functions](#naming-functions)
   - [A/HC/LC pattern](#ahclc-pattern)
     - [Actions](#actions)
