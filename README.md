@@ -9,7 +9,7 @@
 - [English language](#english-language) Change1_branch1
 - [Naming convention](#naming-convention) Change2_branch1
 - [S-I-D](#s-i-d) Change3_branch1
-- [Avoid contractions](#avoid-contractions)
+- [Avoid contractions](#avoid-contractions) Change4_branch1
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expected result](#reflect-the-expected-result)
 - [Naming functions](#naming-functions)
