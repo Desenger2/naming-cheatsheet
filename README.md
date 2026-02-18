@@ -10,7 +10,7 @@
 - [Naming convention](#naming-convention) Change2_branch1
 - [S-I-D](#s-i-d) Change3_branch1
 - [Avoid contractions](#avoid-contractions) Change4_branch1
-- [Avoid context duplication](#avoid-context-duplication)
+- [Avoid context duplication](#avoid-context-duplication) Change5_branch1
 - [Reflect the expected result](#reflect-the-expected-result)
 - [Naming functions](#naming-functions)
   - [A/HC/LC pattern](#ahclc-pattern)
