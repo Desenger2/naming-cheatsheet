@@ -8,7 +8,7 @@
 
 - [English language](#english-language) Change1_BRANCH2
 - [Naming convention](#naming-convention) Change2_BRANCH2
-- [S-I-D](#s-i-d)
+- [S-I-D](#s-i-d) Change3_BRANCH2
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expected result](#reflect-the-expected-result)
